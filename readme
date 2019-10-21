@@ -1,1 +1,18 @@
 
+EC2 - Elastic Compute Cloud
+===============================
+1. Create Windows instance
+
+2. Modify Windows instance
+
+3. Delete Windows Instance
+
+4. Create Linux instance
+
+5. Modify Linux instance
+
+6. Delete Linux Instance
+
+7. Create user to login windows instance (without using key pair)
+
+8. Create user to login linux instance (without using key pair)

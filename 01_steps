@@ -16,3 +16,6 @@ EC2 - Elastic Compute Cloud
 7. Create user to login windows instance (without using key pair)
 
 8. Create user to login linux instance (without using key pair)
+
+9. Terminate instance
+
